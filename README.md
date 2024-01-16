@@ -36,6 +36,15 @@
 </p>
 </details>
 
+<details>
+  <summary><h2><samp>My Github Stats 😭</samp></h2></summary>
+<p  align="center">
+<a  href="">
+<img  src="https://github-readme-stats.vercel.app/api?username=alanshinemanuel&show_icons=true&title_color=59ffa9ff&text_color=8E8E8E&icon_color=cf93faff&bg_color=000000ff"/>
+</a>
+</p>
+</details>
+
 # <samp>Listen to my friend over here! (very important)</samp>
 <p align="center">
 <img src="https://raw.githubusercontent.com/T3M1N4L/T3M1N4L/main/WindowTuxTip.png" width="400px"/>

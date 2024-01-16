@@ -13,7 +13,7 @@
   "operatingSystem": "Mac / Ubuntu / Win10",
   "browser": "Firefox/Chrome",
   "browserExtensions": ["Adblock", "Tampermonkey", "Dark Mode", "ResourcesSaver", "Vencord"],
-  "programmingLanguages": ["JS", "HTML", "C", "Python", "CSS"],
+  "programmingLanguages": ["JS", "HTML", "C", "Python", "CSS", "Java", "C++"],
   "hackingTools": ["nmap", "wireshark", "hydra", "metasploit-framework", "aircrack-ng", "john",
  "burpsuite", "wpscan", "traceroute", "hashcat", "sherlock"],
     "editor": "VSCode",

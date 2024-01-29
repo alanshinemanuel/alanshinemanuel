@@ -28,7 +28,7 @@
 }
 ```
 <details>
-  <summary><h2><samp>What I know/ What I'm learning</samp></h2></summary>
+  <summary><h2><samp>What I know / What I'm learning</samp></h2></summary>
 <p  align="center">
 <a  href="">
 <img  src="https://skillicons.dev/icons?i=html,js,css,solidity,stackoverflow,raspberrypi,py,powershell,php,ps,nodejs,mongodb,linux,md,linkedin,jquery,java,gmail,github,git,codepen,c,cpp,bash&theme=dark&perline=10"/>
